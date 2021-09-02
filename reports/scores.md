@@ -17,7 +17,7 @@ Near Miss
 1. LGBM simples, todas as variáveis, Near Miss v1, {'sampling_strategy': 0.37852656804590223, 'n_neighbors': 3}: 0.6516043302160928
 2. LGBM simples, todas as variáveis, Near Miss v2, {'sampling_strategy': 0.2721875849730608, 'n_neighbors': 3}: 0.6435453345573452
 3. LGBM simples, todas as variáveis, Near Miss v3, {'n_neighbors_ver3': 9, 'sampling_strategy': 0.5316695530547733, 'n_neighbors': 9}: 0.6550513056849
-4. Todas as otimizações de LGBM com os parâmetros acima estão super overfitados.
+4. Todas as otimizações de LGBM com os parâmetros acima estão overfitados.
 
 Tomek Links
 
