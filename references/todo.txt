@@ -1,0 +1,7 @@
+nearmiss
+- remover operacao duplicada de sampling
+- fazer um pipe com selecao da versao, passando parametro
+- otimizar lgbm
+feature engineering
+- testar varios tipos de categorical encoding
+- estudar variaveis continuas com poucos valores
